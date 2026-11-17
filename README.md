@@ -1,3 +1,6 @@
+Joanthony Takashi de A. Mori
+Ana Clara Gonçalves Figueredo
+
 # 12-11-2026
 
 ---
