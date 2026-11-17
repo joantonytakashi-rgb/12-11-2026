@@ -1,12 +1,12 @@
 # 12-11-2026
 
 ---
-###Sobre o projeto
+### Sobre o projeto
 
 O sistema permite registrar e visualizar notas de alunos, facilitando a comparação do desempenho acadêmico. A aplicação realiza cálculos automáticos de média e organiza os resultados por matéria, tornando a análise do rendimento escolar mais simples e intuitiva.
 
 ---
-##Funcionalidades
+## Funcionalidades
 
 Cadastro e visualização de notas dos alunos.
 
@@ -20,7 +20,7 @@ Organização dos resultados para facilitar a análise do desempenho acadêmico.
 
 ---
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 React: biblioteca utilizada para a construção da interface.
 
